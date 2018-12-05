@@ -1,0 +1,22 @@
+[
+	{
+		"src" : "'img/tab1.jpg'",
+		"name" : "LANCOME 兰蔻彩妆护肤",
+		"sale" : "4.1",
+		"preview" : "预览",
+		"subscribe" : "订阅"
+	},
+	{
+		"src" : "'img/tab2.jpg'",
+		"name" : "BIOTHERM 碧欧泉男士护肤专场",
+		"sale" : "6.5",
+		"subscribe" : "订阅"
+	},
+	{
+		"src" : "'img/tab6.jpg'",
+		"name" : "优雅格调 男士服装",
+		"sale" : "3.9",
+		"preview" : "预览",
+		"subscribe" : "订阅"
+	}
+]

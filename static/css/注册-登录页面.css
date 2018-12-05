@@ -1,0 +1,174 @@
+*{margin: 0;
+	padding: 0;
+	background: transparent;
+	letter-spacing: 0.5px;
+	font-family: Microsoft YaHei,Tahoma,Arial,Helvetica,sans-serif;
+	font-size: 12px;}
+body{background: #dddddb;}
+.all{background: url(../img/photo.png);
+	background-repeat: repeat-x;
+	width: 100%;
+	height: auto;}
+.middle{background: url(../img/login.jpg);
+	margin: 0 auto;
+	width: 1000px;
+	height: auto;}
+/*免费注册*/
+.register_header{width: 369px;
+	height: 36px;
+	padding-top: 30px;
+	margin: 0 auto;
+	cursor: pointer;}
+.register_content{width: 950px;
+	height: 650px;
+	overflow: hidden;}
+.register_in{float: right;
+	width: 350px;
+	height: auto;
+	margin: 60px 150px 0 0;}
+.newpeople{width: 260px;
+	height: auto;
+	margin-left: 90px;
+	overflow: hidden;}
+.newpeople h2{font-size: 16px;
+	float: left;}
+._login{float: right;
+	line-height: 22px;}
+._login a{font-size: 14px;
+	color: #db2725;}
+.new{width: 260px;
+	float: left;
+	padding-top: 10px;
+	color: red;}
+/*用户输入*/
+.userinfo{margin-top: 10px;
+	padding-bottom: 19px;
+	border-bottom: 1px #a8aaab solid;}
+.userinfo span{display: inline-block;
+	width: 75px;
+	height: 30px;
+	margin-right: 15px;
+	text-align: right;
+	line-height: 30px;
+	margin-bottom: 10px;}
+.userinfo input{width: 253px;
+	height: 28px;
+	padding-left: 5px;
+	border: 1px #999 solid;
+	margin-bottom: 10px;}
+.userinfo .submit{background: #db2725;
+	width: 260px;
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+	font-size: 14px;
+	color: white;
+	border: none;
+	cursor: pointer;
+	margin-left: 90px;
+	padding: 0;}
+.userinfo .code{width: 108px;
+	height: 28px;}
+.userinfo img{float: right;}
+/*二维码*/
+#idcode{display: inline-block;
+	width: 135px;
+	height: 30px;
+	float: right;
+	margin: 0;
+	text-align: left;
+	overflow: hidden;}
+.userinfo p{width: 260px;
+	height: 18px;
+	margin-left: 90px;
+	line-height: 18px;
+	margin-bottom: 8px;}
+.userinfo p a{color: black;}
+.userinfo p a:hover{color: #db2725;}
+/*登录页面:忘记密码*/
+.userinfo p .forget{float: right;}
+/*复选框*/
+.userinfo .checkbox1{width: 12px;
+	height: 12px;
+	margin: 3px 2px 0 0;
+	float: left;
+	display: block;
+	background: url(../img/black_check.png);
+	cursor: pointer;}
+.userinfo .checkbox2{width: 12px;
+	height: 12px;
+	margin: 3px 2px 0 0;
+	float: left;
+	display: block;
+	background: url(../img/white_check.png);
+	cursor: pointer;}
+/*登录页面:联名登录*/
+.userinfo .weibo,.userinfo .zhifubao{display: inline-block;
+	height: 17px;
+	margin-right: 25px;}
+.userinfo .weibo{width: 20px;
+	background: url(../img/weibo1.png);}
+.userinfo .weibo:hover{background: url(../img/weibo2.png);}
+.userinfo .zhifubao{width: 44px;
+	background: url(../img/zhifubao1.png);}
+.userinfo .zhifubao:hover{background: url(../img/zhifubao2.png);}
+/*错误提示*/
+.remind{color: #db2725;
+	margin-top: -7px;
+	display: none;}
+/*密码安全强度*/
+.userinfo .password{width: 260px;
+	height: auto;
+	margin-left: 90px;
+	margin-bottom: 10px;
+	display: none;}
+.userinfo .save{display: inline-block;
+	width: 82px;
+	height: 15px;
+	line-height: 15px;
+	text-align: center;
+	background: rgb(146,146,146);
+	margin: 0 0 0 1px;
+	color: white;}
+.userinfo .save:first-child{background: rgb(0,0,0);}
+/*扫描二维码*/
+.QR_code{width: 260px;
+	height: auto;
+	margin-top: 20px;
+	float: right;}
+.QR_code p{float: right;
+	margin: 16px 18px 0 0;}
+/*尾部*/
+.footer_center{width: 1000px;
+	margin: 0 auto;}
+.footer_ul1{width: 1000px;
+	height: 60px;
+	margin-bottom: 20px;}
+.footer_ul1 li{float: left;
+	list-style: none;
+	width: 165px;
+	height: 60px;
+	text-align: center;
+	border-right: 1px black solid;}
+.footer_ul1 li a{color: black;
+	text-decoration: none;
+	line-height: 95px;
+	display: inline-block;
+	width: 165px;
+	height: 60px;
+	background: url(../img/base_z.png);}	
+.footer_ul1 .a1{background-position: -153px -146px;}
+.footer_ul1 .a1:hover{background-position: -153px -264px;}
+.footer_ul1 .a2{background-position: -543px -104px;}
+.footer_ul1 .a2:hover{background-position: -543px 7px;}
+.footer_ul1 .a3{background-position: -150px -382px;}
+.footer_ul1 .a3:hover{background-position: -301px -229px;}
+.footer_ul1 .a4{background-position: -419px 5px;}
+.footer_ul1 .a4:hover{background-position: -419px -107px;}
+.footer_ul1 .a5{background-position: -301px -346px;}
+.footer_ul1 .a5:hover{background-position: -301px -459px;}
+.footer_ul1 .a6{background-position: -301px -112px;}
+.footer_ul1 .a6:hover{background-position: -301px 5px;}
+.footer_center p{text-align: center;
+	margin-bottom: 20px;}
+.footer_center p span{margin-right: 30px;}

@@ -1,0 +1,48 @@
+[
+	{
+		"src" : "'img/tab8.jpg'",
+		"name" : "Dior",
+		"sale" : "5.9",
+		"subscribe" : "订阅"
+	},
+	{
+		"src" : "'img/tab5.jpg'",
+		"name" : "SONIA RYKIEL & SONIA BY SONIA RYKIEL  秋冬新款女装",
+		"sale" : "1.9",
+		"preview" : "预览",
+		"subscribe" : "订阅"
+	},
+	{
+		"src" : "'img/tab2.jpg'",
+		"name" : "BIOTHERM 碧欧泉男士护肤专场",
+		"sale" : "6.5",
+		"subscribe" : "订阅"
+	},
+	{
+		"src" : "'img/tab3.jpg'",
+		"name" : "SONIA RYKIEL & SONIA BY SONIA RYKIEL 秋冬新款鞋包配饰",
+		"sale" : "2",
+		"preview" : "预览",
+		"subscribe" : "订阅"
+	},
+	{
+		"src" : "'img/tab4.jpg'",
+		"name" : "JC COLLECZIONE 雅致足踝佳人鞋履",
+		"sale" : "1.4",
+		"subscribe" : "订阅"
+	},
+	{
+		"src" : "'img/tab6.jpg'",
+		"name" : "优雅格调 男士服装",
+		"sale" : "3.9",
+		"preview" : "预览",
+		"subscribe" : "订阅"
+	},
+	{
+		"src" : "'img/tab7.jpg'",
+		"name" : "LANCOME 兰蔻彩妆护肤",
+		"sale" : "3",
+		"preview" : "预览",
+		"subscribe" : "订阅"
+	}
+]
